@@ -1,6 +1,6 @@
 # DEMO:
 
-[Check here](https://imaginary-basin.surge.sh).
+[Check here](https://dry-prose.surge.sh/).
 
 # Notes:
 
