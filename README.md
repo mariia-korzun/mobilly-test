@@ -1,3 +1,11 @@
+# DEMO:
+
+[Check here](https://imaginary-basin.surge.sh).
+
+# Notes:
+
+All requirements are implemented. Additionally implemented infinite scroll and ability to reach pages by links.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
