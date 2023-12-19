@@ -2,8 +2,8 @@ import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 import IState, { IAccessToken } from "./types";
 
 const initialState: IState = {
-  clientId: "33f18473c9864e51adb9623b94d829aa",
-  clientSecret: "ac004494f47347b7a42471080a29b36f",
+  clientId: "3e759922ab3f42649af2686278fe276d",
+  clientSecret: "91a7ed87bd6c496e89043b5007c4737e",
 };
 
 const tokenSlice = createSlice({
